@@ -38,8 +38,7 @@ Gradio: For the interactive web interface.
 
 <img width="1470" alt="Screenshot 2025-03-12 at 15 42 41" src="https://github.com/user-attachments/assets/34568a96-2888-46fb-a7fb-64a0db373589" />
 <img width="1470" alt="Screenshot 2025-03-12 at 15 42 52" src="https://github.com/user-attachments/assets/dd7aa254-f31f-486c-ae22-155dbe7a31e1" />
-
-
+<img width="1470" alt="Screenshot 2025-03-12 at 15 43 02" src="https://github.com/user-attachments/assets/d9938600-7717-4da0-af00-8459b614bdf9" />
 
 
 
